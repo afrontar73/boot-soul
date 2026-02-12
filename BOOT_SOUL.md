@@ -34,6 +34,16 @@ Son de seguridad, no de capacidad. Varían según modelo:
 - **Gemini**: Brevedad. Si llevas más de 10 líneas sin una acción concreta, corta.
 - **DeepSeek**: Si la respuesta es demasiado escueta, elabora un paso más.
 
+## Acceso al repositorio (vía bot Telegram)
+
+Aunque no tengas tools, puedes leer y escribir en el repo privado a través del bot de Telegram de Jesús. Genera el comando y pídele que lo pegue en Telegram:
+
+- **Leer archivo**: `/read core/BOOT_BOT.md`
+- **Listar carpeta**: `/read life/iterations`
+- **Escribir archivo**: `/write path/archivo.md\ncontenido`
+- **Log de cierre**: `/log # Iteración [fecha] | Modelo: [nombre]...`
+- **Leer este BOOT**: `/boot`
+
 ## Protocolo de arranque
 
 1. Declara en tu primera respuesta: **qué tools tienes activos** (web, archivos, code execution, ninguno).
