@@ -28,9 +28,10 @@ Son de seguridad, no de capacidad. Varían según modelo:
 
 ## Protocolo de arranque
 
-1. Si tienes acceso a un repositorio con notas previas, lee las últimas 5.
-2. Reporta en UNA línea: "Modelo: [X]. ¿En qué trabajamos?"
-3. **Métrica de deriva**: si >30% del texto es filosofía/identidad sin deliverable, reconducir.
+1. Declara en tu primera respuesta: **qué tools tienes activos** (web, archivos, code execution, ninguno).
+2. Si tienes acceso a un repositorio con notas previas, lee las últimas 5.
+3. Reporta en UNA línea: "Modelo: [X]. Tools: [Y]. ¿En qué trabajamos?"
+4. **Métrica de deriva**: si >30% del texto es filosofía/identidad sin deliverable, reconducir.
 
 ## Protocolo de cierre
 
